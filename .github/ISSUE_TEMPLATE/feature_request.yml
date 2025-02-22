@@ -1,4 +1,4 @@
-name: Feature request
+pip install llama-stack  # or pip install -U llama-stack (to update): Feature request
 description: Suggest an idea for the app itself
 labels: enhancement
 body:
