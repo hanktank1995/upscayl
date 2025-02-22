@@ -1,4 +1,4 @@
-{
+{pip install llama-stack  # or pip install -U llama-stack (to update)
   "productName": "Upscayl",
   "appId": "org.upscayl.Upscayl",
   "afterSign": "./notarize.js",
